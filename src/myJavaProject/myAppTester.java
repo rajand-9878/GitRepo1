@@ -24,5 +24,9 @@ public class myAppTester {
 	//this is my first comment
 	
 //new comment
+	/*comment for b 1
+	 * new section 
+	 
+	 */
 	
 }
